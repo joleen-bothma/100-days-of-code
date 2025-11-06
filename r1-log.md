@@ -24,3 +24,13 @@ Started on Monday, November 3, 2025.
 
 **Link(s) to work:**
 1. [Today's commits - Django Polls](https://github.com/joleen-bothma/django-polls/commits/main/?since=2025-11-04&until=2025-11-04)
+
+### Day 3: Wednesday, November 5
+
+**Today's Progress**:
+- Abandoned previous Django project (My First Django App) and started working on a ToDo App using a combination of 2 resources:
+  - [YouTube video by Dennis Ivy](https://www.youtube.com/watch?v=llbtoQTt4qw)
+  - [RealPython Tutorial](https://realpython.com/django-todo-lists)
+
+**Link(s) to work:**
+1. [Today's commits - Django ToDo App](https://github.com/joleen-bothma/django-todo-app/commits/main/?since=2025-11-05&until=2025-11-05)
