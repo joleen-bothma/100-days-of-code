@@ -34,3 +34,12 @@ Started on Monday, November 3, 2025.
 
 **Link(s) to work:**
 1. [Today's commits - Django ToDo App](https://github.com/joleen-bothma/django-todo-app/commits/main/?since=2025-11-05&until=2025-11-05)
+
+### Day 4: Thursday, November 6
+
+**Today's Progress**:
+- Continued working on my ToDo app
+  - Encountered an issue when adding a view to create a new task: URL for `reverse_lazy` returns an error. I think I am running into problems because I am not using good naming conventions between my views, models, and url paths. Commited the code but need to fix this.
+
+**Link(s) to work:**
+1. [Today's commits - Django ToDo App](https://github.com/joleen-bothma/django-todo-app/commits/main/?since=2025-11-06&until=2025-11-06)
