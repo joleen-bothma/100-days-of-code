@@ -43,3 +43,11 @@ Started on Monday, November 3, 2025.
 
 **Link(s) to work:**
 1. [Today's commits - Django ToDo App](https://github.com/joleen-bothma/django-todo-app/commits/main/?since=2025-11-06&until=2025-11-06)
+
+### Day 5: Friday, November 7
+
+**Today's Progress**:
+- Still working on resolving some issues with the ToDo app. While I no longer get an error when using `reverse_lazy` for  `get_success_url`, the URLs are not working as intended. My app has multiple lists, each containing their own tasks, but my views are not setup to do this. After reading [this mozilla tutorial](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django/Models), I think the issue is that I need to define a `get_absolute_url` function in my models. More research and testing needed. 
+
+**Link(s) to work**:
+None - bugs and issues not resolved.
